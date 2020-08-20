@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">androideatit</string>
+    <string name="slogan">Hello everybody ! There have been many requests for me to make this tutorial. And today I just had time to implement it, initially I was going to use Web Service written in ASP.NET to do the backend but I suddenly thought "Why not use Firebase, which is a good backend".</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">John</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
